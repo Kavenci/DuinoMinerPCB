@@ -1,0 +1,134 @@
+{
+  "uuid": "037f2c6b9ffe7ef62652e68a5d79a1a7",
+  "path": "Offline/ESPMINERS",
+  "name": "ESPMINERS",
+  "content": "",
+  "created_at": "2021-10-13 19:26:59",
+  "updated_at": "2021-10-15 10:01:21",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "64bc6138d31fcf36c8d2cf5ad4f22569",
+      "title": "DUINCOIN MINER 12x",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f942f8e244294bb7b1d0d99120824d33": 12,
+        "404aa9221ff94de597b8734806e7c74f": 2,
+        "3721972c581d4f99b226effb1db7a790": 1,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "J1",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "J2",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-3mm_R",
+          1,
+          "LED-TH_BD3.0_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "204-10SDRD/S530-A3-L",
+            "BOM_Supplier Part": "C84774",
+            "BOM_Supplier": "LCSC",
+            "puuid": "bec79a4ea65a4f65ba290a03b598a762",
+            "uuid": "3721972c581d4f99b226effb1db7a790"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R_AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          12,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1,U2,U3,U4,U5,U6,U7,U8,U9,U10,U11,U12",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2837266",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "562d77a546a24e4f83c78207be689c00",
+            "uuid": "f942f8e244294bb7b1d0d99120824d33"
+          }
+        ]
+      ],
+      "updateTime": 1634252470,
+      "createTime": 1634113655,
+      "histories": [],
+      "created_at": "2021-10-13 19:27:35",
+      "updated_at": "2021-10-15 10:01:10"
+    },
+    {
+      "uuid": "e58418d5123eaf854e5740a6b91cad16",
+      "puuid": "037f2c6b9ffe7ef62652e68a5d79a1a7",
+      "title": "PCB_ESPMINERS",
+      "filename": "PCB_ESPMINERS.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bec79a4ea65a4f65ba290a03b598a762": 1,
+        "3eb1249f3ebb4284ae221b0379016582": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 2,
+        "562d77a546a24e4f83c78207be689c00": 12
+      },
+      "BOM": [],
+      "updateTime": 1634130320,
+      "createTime": 1634127114,
+      "histories": [],
+      "created_at": "2021-10-13 23:11:54",
+      "updated_at": "2021-10-14 00:05:20"
+    }
+  ],
+  "sort": [],
+  "title": "ESPMINERS",
+  "foldername": "ESPMINERS",
+  "schfilename": "ESPMINERS.json",
+  "schfilemtime": 1634252481075
+}

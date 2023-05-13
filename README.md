@@ -1,5 +1,4 @@
 # DuinoMinerPCB
-# WARNING - UNTESTED
 Order has been placed should recieve them soon for testing!
 ^ Update very much later because I forgot but they work perfectly!!!
 # Overview
